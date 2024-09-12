@@ -20,7 +20,7 @@
     <a href="https://www.youtube.com/@viratiarawitri9001">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <img align="right" src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Hello_Big.gif" height="50"/>
+    <img align="right" src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Hello_Big.gif" height="55"/>
 </p>
 
 ---
