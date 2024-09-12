@@ -1,4 +1,4 @@
-### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="20px">
+### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/vetewe/vetewe/blob/main/Asset/powerup.gif" height="20px">
 > **A newbie girl in a huge coding world that is sooooo corious bout everything**
 
 🎓 | Pursuing a Bachelor's Degree in Informatics Engineering
@@ -20,7 +20,7 @@
     <a href="https://www.youtube.com/@viratiarawitri9001">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="58"/>
+    <img align="right" src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Hello_Big.gif" height="58"/>
 </p>
 
 ---
@@ -37,6 +37,6 @@
 
 <hr>
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="" height="200" width="900"/>
+  <img src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Gameplay.gif" alt="" height="200" width="900"/>
 </div>
 
