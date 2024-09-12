@@ -1,9 +1,9 @@
-### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/vetewe/vetewe/blob/main/Asset/powerup.gif" height="20px">
+### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/vetewe/vetewe/blob/main/Asset/powerup.gif" height="30px">
 > **A newbie girl in a huge coding world that is sooooo corious bout everything**
 
-🎓 | Pursuing a Bachelor's Degree in Informatics Engineering
-<br> 💻 | Mobile Development Cohort at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka [MD-47]
-<br> 🎯 | Currently focusing being a Cohort at Bangkit
+<img src="https://github.com/vetewe/vetewe/blob/main/Asset/toga.png" width="20cm"/>  | Pursuing a Bachelor's Degree in Informatics Engineering
+<br><img src="https://github.com/vetewe/vetewe/blob/main/Asset/star.png" width="20cm"/> | Mobile Development Cohort at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka [MD-47]
+<br> <img src="https://github.com/vetewe/vetewe/blob/main/Asset/love.png" width="19cm"/> | Currently focusing being a Cohort at Bangkit
 
 
 <h5 align="center">Connect with me : </h5> 
