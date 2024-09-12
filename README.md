@@ -30,7 +30,7 @@
 <a href="https://github.com/vetewe">
   <img width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vetewe&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img width="255em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vetewe&layout=compact&langs_count=8&theme=graywhite"/>
-  <img height="240cm" width="610em" src="https://github-readme-streak-stats.herokuapp.com/?user=vetewe&theme=graywhite&count_private=true"/>
+  <img height="250cm" width="610em" src="https://github-readme-streak-stats.herokuapp.com/?user=vetewe&theme=graywhite&count_private=true"/>
 </a>
 </p>
 </div>
