@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vetewe)
-### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/vetewe/vetewe/blob/main/Asset/powerup.gif" height="30px">
+### Hi there! You are opening Vira Tiara Witri's profile <img src="https://github.com/vetewe/vetewe/blob/main/Asset/gifs/powerup.gif" height="30px">
 > **A newbie girl in a huge coding world that is sooooo corious bout everything** 
 
-<img src="https://github.com/vetewe/vetewe/blob/main/Asset/toga.png" width="20cm"/>  | Pursuing a Bachelor's Degree in Informatics Engineering
-<br><img src="https://github.com/vetewe/vetewe/blob/main/Asset/star.png" width="20cm"/> | Mobile Development Cohort at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka [MD-47]
-<br> <img src="https://github.com/vetewe/vetewe/blob/main/Asset/love.png" width="19cm"/> | Currently focusing being a Cohort at Bangkit
+<img src="https://github.com/vetewe/vetewe/blob/main/Asset/images/toga.png" width="20cm"/>  | Pursuing a Bachelor's Degree in Informatics Engineering
+<br><img src="https://github.com/vetewe/vetewe/blob/main/Asset/images/star.png" width="20cm"/> | Mobile Development Cohort at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka [MD-47]
+<br> <img src="https://github.com/vetewe/vetewe/blob/main/Asset/images/love.png" width="19cm"/> | Currently focusing being a Cohort at Bangkit
 
 <h5 align="center">Connect with me : </h5> 
 <p align="center">
@@ -20,7 +20,7 @@
     <a href="https://www.youtube.com/@viratiarawitri9001">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <img align="right" src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Hello_Big.gif" height="55"/>
+    <img align="right" src="https://github.com/vetewe/vetewe/blob/main/Asset/gifs/Mario_Hello_Big.gif" height="55"/>
 </p>
 
 ---
@@ -37,6 +37,6 @@
 
 <hr>
 <div align="center">
-  <img src="https://github.com/vetewe/vetewe/blob/main/Asset/Mario_Gameplay.gif" alt="" height="200" width="900"/>
+  <img src="https://github.com/vetewe/vetewe/blob/main/Asset/gifs/Mario_Gameplay.gif" alt="" height="200" width="900"/>
 </div>
 
